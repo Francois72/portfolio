@@ -1,0 +1,10 @@
+{
+    "name": "bergerot/portfolio",
+    "require": {},
+    "autoload": {
+		"psr-4" : {
+		"controller\\" : "controller",
+		"model\\" : "model"
+		}
+	}
+}
